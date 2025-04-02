@@ -6,7 +6,7 @@ This project presents a comprehensive sales analysis dashboard for Blinkit, an I
 
 
 ## Dashboard
-
+![Image](https://github.com/user-attachments/assets/64de8c01-fd4c-4f4b-91e7-91cbfd873d55)
 
 
 
