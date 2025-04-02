@@ -55,6 +55,10 @@ The dashboard provides actionable insights into:
 ## Snapshots Section
 
 ### **1. KPI Summary**
+
+
+![Image](https://github.com/user-attachments/assets/2e9c6105-0532-4e1e-b5cd-1d3cd1d69a98)
+
 - **Snapshot:** Displays key metrics such as:
   - Total Sales: $1.2M
   - Average Sales per Outlet: $141M
@@ -65,6 +69,10 @@ The dashboard provides actionable insights into:
 ---
 
 ### **2. Sales by Fat Content**
+
+![Image](https://github.com/user-attachments/assets/7c0572d1-d909-4b86-8cb4-f94b0e9d8cde)
+
+
 - **Snapshot:** Pie chart illustrating sales distribution:
   - Low Fat: $425.36K
   - Regular Fat: $776.32K
@@ -73,6 +81,10 @@ The dashboard provides actionable insights into:
 ---
 
 ### **3. Item Type Breakdown**
+
+![Image](https://github.com/user-attachments/assets/98348837-d72f-4436-8167-cef646b87e5c)
+
+
 - **Snapshot:** Horizontal bar chart ranking sales by item categories:
   - Fruits and Vegetables: $372.12K (31%)
   - Snack Foods: $175.43K (15%)
@@ -82,12 +94,22 @@ The dashboard provides actionable insights into:
 ---
 
 ### **4. Outlet Establishment Timeline**
+
+
+![Image](https://github.com/user-attachments/assets/4e83035c-2bb7-43a1-8b28-c9ae565bfe0d)
+
+
 - **Snapshot:** Line chart tracking sales trends over the years.
 - **Purpose:** Reflects growth phases, with notable peaks in outlet establishments in 2018.
 
 ---
 
 ### **5. Sales by Outlet Size and Location**
+
+
+![Image](https://github.com/user-attachments/assets/9e1089b9-7b0f-44b4-9fad-7b62df8f240f)
+
+
 - **Snapshot:** Donut charts categorizing sales:
   - Outlet Size: Medium ($507.90K), Small ($472.13K), High ($220K)
   - Outlet Location Tier: Tier 3 ($472.13K), Tier 2 ($400K), Tier 1 ($327K)
@@ -95,3 +117,20 @@ The dashboard provides actionable insights into:
 
 ---
 Include these snapshots in your repository to visually showcase the dashboard's functionality and design.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
