@@ -4,6 +4,12 @@
 
 This project presents a comprehensive sales analysis dashboard for Blinkit, an Indian last-minute delivery app. Built using Microsoft Excel, the dashboard provides detailed insights into the company's sales performance across various outlets and product categories. It is designed to help stakeholders understand key metrics, identify trends, and make data-driven decisions.
 
+
+## Dashboard
+
+
+
+
 ## Features
 
 ### **Key Metrics**
