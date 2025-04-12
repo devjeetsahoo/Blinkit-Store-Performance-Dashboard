@@ -8,7 +8,8 @@ This project presents a comprehensive sales analysis dashboard for Blinkit, an I
 ## Dashboard
 ![Image](https://github.com/user-attachments/assets/64de8c01-fd4c-4f4b-91e7-91cbfd873d55)
 
-
+##Project Lnk
+https://bpitdelhi-my.sharepoint.com/:x:/g/personal/devjeet25ai-ds22_bpitindia_edu_in/ETktwvq_NLZJg6Nws-zCk14B5vXZ9nKbTOirK2K4HwGGfA?e=S1Obfe
 
 ## Features
 
